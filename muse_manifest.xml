@@ -1,0 +1,28 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mahin311.github.io" resolutions="1x" timestamp="1586363443629">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-master.css" crc="4146923426" ref="index"/>
+    <file name="nngti.css" crc="535418162" ref="nngti"/>
+    <file name="index.css" crc="3931919952" ref="index"/>
+    <file name="untitled-3.css" crc="535418162" ref="untitled-3"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nngti:untitled-3"/>
+    <file name="museutils.js" crc="340535759" ref="index:nngti:untitled-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nngti:untitled-3"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:nngti:untitled-3"/>
+    <file name="require.js" crc="7928878" ref="index:nngti:untitled-3"/>
+  </folder>
+  <folder name="images">
+    <file name="u183-4.png" crc="155110465" ref="index"/>
+    <file name="u186-4.png" crc="333406707" ref="index"/>
+    <file name="u189-4.png" crc="4272728835" ref="index"/>
+    <file name="u192-4.png" crc="338255502" ref="index"/>
+    <file name="untitled-1-01-01-crop-u170.jpg" crc="507893038" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="96914143" seo="true" mt="1586363381769" redirect="true"/>
+  <file name="nngti.html" crc="316168374" seo="true" mt="1586363114865" redirect="false"/>
+  <file name="untitled-3.html" crc="4153596477" seo="true" mt="1586362394769" redirect="false"/>
+</manifest>
